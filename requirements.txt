@@ -1,0 +1,2 @@
+#Now we use the old version
+elasticsearch>=2.0.0,<3.0.0
